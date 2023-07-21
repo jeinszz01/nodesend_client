@@ -11,7 +11,7 @@ module.exports = nextConfig
 
 module.exports = {
     env: {
-        backendURL: 'https://nodesend-backend-ord6.onrender.com/',
+        backendURL: 'https://nodesend-backend-ord6.onrender.com',
         frontendURL: 'https://next-node-send.netlify.app'
     }
 }
